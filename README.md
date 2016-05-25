@@ -17,7 +17,7 @@ $ git init
 
 Initialized empty Git repository in C:/Program Files/Git/cursoGit/.git/
 
-Mostrando pastas ocultas 
+Mostrando pastas ocultas
 $ ls -la
 
 total 8
