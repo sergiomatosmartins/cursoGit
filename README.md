@@ -14,10 +14,12 @@ $ cd cursoGit
 
 Iniciando git 
 $ git init
+
 Initialized empty Git repository in C:/Program Files/Git/cursoGit/.git/
 
 Mostrando pastas ocultas 
 $ ls -la
+
 total 8
 drwxr-xr-x 1 sergio 1049089 0 mai 25 10:55 ./
 drwxr-xr-x 1 sergio 1049089 0 mai 25 10:52 ../
@@ -25,6 +27,7 @@ drwxr-xr-x 1 sergio 1049089 0 mai 25 10:55 .git/
 
 Verificando Status 
 $ git status
+
 On branch master
 Initial commit
 nothing to commit (create/copy files and use "git add" to track)
